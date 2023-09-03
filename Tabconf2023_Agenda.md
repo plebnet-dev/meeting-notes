@@ -1,6 +1,6 @@
 # Introducing PLEBNET.DEV: Beyond the Tutorial Hell
 
-_By [Your Name]_
+_By Tobias@plebnet.dev - Developer Advocate_
 
 **Illustration**: A split graphic depicting Tutorial Hell on one side and PLEBNET's solution on the other. Use vibrant contrasts with `#1191db` and `#0f1b2f`.
 
