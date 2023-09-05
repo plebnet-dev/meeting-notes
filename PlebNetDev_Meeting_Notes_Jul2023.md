@@ -34,7 +34,7 @@
 - Post-September membership fees and sponsorship, merchandise store for funding.
 - Open source ecommerce store development for plebnet.dev.
 - Plebnet.dev's business model discussion: unlimited access or minor fee.
-- No public testnet member only for now. 
+- Testnet is public. Faucets, further discussion needed
 - Merchant store link addition.Bitcoindad good task to add https://plebnet-dev.printify.me/ link to the website for merch.
 
 ![](https://cdn.discordapp.com/attachments/1135058912954023936/1135060423398395934/Flat_designs.png)
