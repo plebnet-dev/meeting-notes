@@ -97,7 +97,7 @@
 
 ---
 
-# Next Meeting: September 23rd, 2023
+# Next Meeting: September 30th, 2023
 
 [Link to the Next Meeting](https://discord.com/events/1097749919445569606/1145859310564425828)
 s
