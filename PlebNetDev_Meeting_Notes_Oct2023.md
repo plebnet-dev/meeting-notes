@@ -19,11 +19,9 @@
 Blogging Bitcoin
 Saucy_tech
 Tonyboi
-Coinguybri
+Coinguybri / Brian /CGB/  Bliotti (github username)
 Fenix
-Bilotti
-CGB
-Ash / Smash
+Asher / Smash (discord)
 BitKarrot
 
 #### 2.	Plebnet.dev Updates 
@@ -41,7 +39,7 @@ BitKarrot
 - [Nostr use cases and benefits and Nostr matrix client list](https://nostorg.github.io/clients/)
 
 #### 7.	Other Discussion Points
-[Completion of a LNBITS or GetAlby Pull Request would get a free 2024 Bitcoin Tix (Open Source](https://b.tc/conference/opensource)
+[Completion of a LNBITS Pull Request would get a free 2024 Bitcoin Tix (Open Source](https://b.tc/conference/opensource)
 
 Member Updates:
 [BitKarrot](https://github.com/plebnet-dev/Workshops/blob/main/Lightning_payments_16OCT2023Workshop.pdf)
